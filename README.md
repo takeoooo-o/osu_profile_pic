@@ -1,1 +1,1 @@
-# osu_profile_pic
+osuプロフ画像用レポジトリ
